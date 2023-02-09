@@ -7,7 +7,7 @@ Model of adaptive colonisation across a parasitism–mutualism gradient.
 This code was created to implement an individual-based model to investigate adaptive colonisation by hosts and their symbionts across a parasite–mutualist continuum. The host must adapt in order to establish in the novel habitat, and the symbiont must adapt to track evolutionary change in the host. We introduce variation in dispersal at two scales: host migration and symbiont transmissibility.
 
 The code was used to perform the analyses included in a MS submitted to Ecology Letters:
-Mestre A, Butlin RK, Hortal J and Rafajlović M (2023). Adaptive colonisation across a parasism-mutualism gradient. Ecology Letters.
+Mestre A, Butlin RK, Hortal J and Rafajlović M (2023). Adaptive colonisation across a parasitism-mutualism gradient. Ecology Letters.
 
 ## Details of the code that implements the model
 
